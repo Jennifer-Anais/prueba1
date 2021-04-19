@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+}
+.titulo { 
+    text-align: center;
+    font-size: 40px;
+    color:blue;
+    text-decoration: underline;   
+    text-transform: uppercase;
+}
